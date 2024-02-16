@@ -1,0 +1,2 @@
+class ReviewFile < ApplicationRecord
+end

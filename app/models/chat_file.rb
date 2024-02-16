@@ -1,0 +1,2 @@
+class ChatFile < ApplicationRecord
+end

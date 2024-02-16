@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  customer_id: 1
+  product_quantity: 1
+  total_price: 9.99
+  payment_method: MyString
+
+two:
+  customer_id: 1
+  product_quantity: 1
+  total_price: 9.99
+  payment_method: MyString
