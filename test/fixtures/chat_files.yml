@@ -2,8 +2,8 @@
 
 one:
   file_name: MyString
-  chat_id: 1
+  chat: one
 
 two:
   file_name: MyString
-  chat_id: 1
+  chat: two

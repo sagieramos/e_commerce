@@ -4,12 +4,12 @@ one:
   phone1: MyString
   phone2: MyString
   ZIP: MyString
-  user_id: 1
-  super_admin_id: 1
+  user: one
+  super_admin: one
 
 two:
   phone1: MyString
   phone2: MyString
   ZIP: MyString
-  user_id: 1
-  super_admin_id: 1
+  user: two
+  super_admin: two

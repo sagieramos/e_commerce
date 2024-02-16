@@ -2,8 +2,8 @@
 
 one:
   file_name: MyString
-  review_id: 1
+  review: one
 
 two:
   file_name: MyString
-  review_id: 1
+  review: two

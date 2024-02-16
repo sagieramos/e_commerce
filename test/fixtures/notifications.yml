@@ -2,8 +2,8 @@
 
 one:
   message: MyString
-  user_id: 1
+  user: one
 
 two:
   message: MyString
-  user_id: 1
+  user: two

@@ -2,10 +2,10 @@
 
 one:
   message: MyString
-  sender_id: 1
-  receiver_id: 1
+  sender: one
+  receiver: one
 
 two:
   message: MyString
-  sender_id: 1
-  receiver_id: 1
+  sender: two
+  receiver: two

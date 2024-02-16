@@ -9,8 +9,8 @@ class CreateProducts < ActiveRecord::Migration[7.1]
       t.string :photo4
       t.string :photo5
       t.string :photo6
-      t.integer :seller_id
       t.decimal :price
+      t.references :seller, null: false, foreign_key: { to_table: :users }
 
       t.timestamps
     end
