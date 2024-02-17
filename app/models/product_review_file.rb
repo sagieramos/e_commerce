@@ -1,3 +1,3 @@
 class ReviewFile < ApplicationRecord
-  belongs_to :review
+  belongs_to :product_review
 end
